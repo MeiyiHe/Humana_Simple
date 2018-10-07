@@ -1,0 +1,42 @@
+# CON_VISIT_11_Q01 - Q02 - Q03 - Q04 
+# 11: CHRONIC KIDNEY DISEASE
+
+# CON_VISIT_22_Q02 - Q04
+# 22: HIV AND RELATED CONDITIONS
+
+# CON_VISIT_28_Q03 - Q04
+# 28 BURNS
+
+# CON_VISIT_14_Q03 - Q04
+# 14 CONGENITAL ANOMALIES
+
+# POT_VISIT_53_Q02 - Q03 - Q04
+# 53 Community Mental Health Center
+# A facility that provides the following services: outpatient services, including specialized outpatient services for children, the elderly, individuals who are chronically ill, and residents of the CMHC's mental health services area who have been discharged from inpatient treatment at a mental health facility; 24 hour a day emergency care services; day treatment, other partial hospitalization services, or psychosocial rehabilitation services; screening for patients being considered for admission to State mental health facilities to determine the appropriateness of such admission; and consultation and education services.
+
+# POT_VISIT_99_Q01 - Q02 - Q03
+# 99 Other Place of Service	
+# Other place of service not identified above.
+
+# POT_VISIT_65_Q01 - Q02 - Q03 - Q04
+# 65 End-Stage Renal Disease Treatment Facility
+# A facility other than a hospital, which provides dialysis treatment, maintenance, and/or training to patients or caregivers on an ambulatory or home-care basis.
+
+# POT_VISIT_13_Q01 - Q02
+# 13 Assisted Living Facility
+# Congregate residential facility with self-contained living units providing assessment of each resident's needs and on-site support 24 hours a day, 7 days a week, with the capacity to deliver or arrange for services including some health care and other services. 
+
+# Diab_Type_Diabetes Type II  ---  DIABETES
+# DIABETES: Member diagnosed with type 2 diabetes in 2017. So they should be perfectly correlated
+
+# DIAB_ELIG  --- DIAB_PASS
+# ACE_ELIG  ---  ACE_PASS
+# STATIN_ELIG  ---  STATIN_ELIG
+
+# Population_density_centile_US  ---  Population_density_centile_ST
+
+# RENAL  ---  CKD
+
+# ESRD  ---  ESRD_IND_Y
+# ESRD: Member diagnosed with end stage renal disease in 2017
+
